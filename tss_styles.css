@@ -33,9 +33,12 @@ body{
 }
 
 
-
-
 /* Heading Styles */
+h1, h2 {
+   font-family: Quicksand, Verdana, Geneva, sans-serif;
+   padding:5px;
+   border-radius:8px;
+}
 
 article#about_tss h1 {
    color: white;
